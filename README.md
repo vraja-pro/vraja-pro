@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vraja! @vraja-pro
-- 👀 I’m interested in web development! 
-- 🌱 I’m currently learning react, angular, next.js
-- 💞️ I’m looking to collaborate on any project! 
+- 👀 I’m a web developer since 2018 
+- 🌱 I’m currently learning react! 
 - 📫 How to reach me: vraja.pro@gmail.com
 
 <!---
